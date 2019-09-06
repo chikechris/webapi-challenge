@@ -1,5 +1,5 @@
 const express = require('express')
-const dbProject = require('../data/helpers/actionModel.js')
+const dbProject = require('../data/helpers/projectModel.js')
 const dbAction = require('../data/helpers/actionModel.js')
 
 
